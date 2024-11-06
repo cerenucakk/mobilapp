@@ -1,0 +1,13 @@
+
+    <resources>
+        <string name="app_name">homework1</string>
+        <string name="text1">Welcome Back</string>
+        <string name="text2">sign in to access your account</string>
+        <string name="mail">Enter your email</string>
+        <string name="Password">Password</string>
+        <string name="CheckBox">Remember me</string>
+        <string name="text3">Forget password ?</string>
+        <string name="Next">Next</string>
+        <string name="text4">Register now</string>
+        <string name="text5">New Member?</string>
+    </resources>

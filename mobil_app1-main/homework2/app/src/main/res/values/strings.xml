@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="text1">Get Started</string>
+    <string name="text2">by creating a free account.</string>
+    <string name="name">Full name</string>
+    <string name="mail">Valid email</string>
+    <string name="phone">Phone number</string>
+    <string name="check">By checking the box you agree to our <font color="#0000FF">Terms</font> and <font color="#0000FF">Conditions</font>.</string>
+    <string name="text3">Already a member? <u><font color="#0000FF">Log In</font></u></string>
+
+</resources>
